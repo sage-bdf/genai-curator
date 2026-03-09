@@ -1,0 +1,87 @@
+exclude: '^(data/|scripts/get_pip\.py)'
+
+repos:
+  - repo: https://github.com/Lucas-C/pre-commit-hooks
+    rev: v1.5.5
+    hooks:
+      - id: insert-license
+        files: \.(py|sh|tf)$
+        args:
+          - --license-filepath=./LICENSE
+          - --comment-style=#
+
+  - repo: https://github.com/Yelp/detect-secrets
+    rev: v1.5.0
+    hooks:
+      - id: detect-secrets
+        exclude: (?x)^( .*.ipynb|README.md )$
+
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: check-json
+      - id: check-yaml
+      - id: check-case-conflict
+      - id: mixed-line-ending
+        args:
+          - "--fix=lf"
+      - id: fix-byte-order-marker
+      - id: check-merge-conflict
+      - id: detect-private-key
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+
+  - repo: https://github.com/codespell-project/codespell
+    rev: v2.4.1
+    hooks:
+      - id: codespell
+        entry: codespell
+        args:
+          - "--skip=*.git*,*venv*,*mypy_cache*,*dist/*,*.toml,*output.xml,*data/*,*get_pip*,*.tsx,*.ipynb,*out*,*.json"
+        pass_filenames: false
+
+  - repo: https://github.com/pre-commit/mirrors-prettier
+    rev: v4.0.0-alpha.8
+    hooks:
+      - id: prettier
+        name: prettier-md
+        args:
+          - "--write"
+          - "--config"
+          - .prettierrc
+        files: .*\.(ya?ml|json|md)$
+        exclude: ^dist/|.*/prompt_templates/.*\.jinja$
+
+  - repo: https://github.com/pycqa/isort
+    rev: 6.0.0
+    hooks:
+      - id: isort
+        name: isort (python)
+
+  - repo: https://github.com/ambv/black
+    rev: 25.1.0
+    hooks:
+      - id: black
+
+  - repo: https://github.com/charliermarsh/ruff-pre-commit
+    rev: v0.9.7
+    hooks:
+      - id: ruff
+        args:
+          - "--exit-non-zero-on-fix"
+
+  - repo: https://github.com/pycqa/flake8
+    rev: 7.1.2
+    hooks:
+      - id: flake8
+        additional_dependencies:
+          - flake8-docstrings
+          - flake8-broken-line
+          - flake8-bugbear
+          - flake8-comprehensions
+          - flake8-debugger
+          - flake8-string-format
+        args:
+          - "--docstring-convention=google"
+          - "--max-line-length=120"
+        exclude: ^(__init__.py$|.*\/__init__.py$|.*notebooks)

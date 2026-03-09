@@ -1,0 +1,339 @@
+name,studyId,targetCaptureKitID,aliquotID,specimenID,individualID,parentSpecimenID,transplantationType,compoundDoseUnit,isStranded,readPairOrientation,accessType,nf1Genotype,diagnosis,targetDepth,age,ageUnit,isCellLine,libraryPreparationMethod,averageBaseQuality,sex,genePerturbationType,compoundDose,readDepth,readLength,readStrandOrigin,progressReportNumber,specimenPreparationMethod,isMultiIndividual,libraryStrand,readPair,initiative,genePerturbationTechnology,comments,fileFormat,nf2Genotype,Component,species,fundingAgency,nucleicAcidSource,channel,genePerturbed,resourceType,dissociationMethod,readsDuplicatedPercent,isMultiSpecimen,studyName,isPrimaryCell,workflow,workflowLink,pairsOnDifferentChr,transplantationRecipientTissue,individualIdSource,totalReads,dataType,dataSubtype,genomicReference,organ,isXenograft,drugScreenType,experimentalCondition,modelSystemName,libraryPrep,tumorType,expressionUnit,readsMappedPercent,averageInsertSize,compoundName,runType,transplantationRecipientSpecies,cellType,modifiedBy,experimentalTimepoint,assay,averageReadLength,platform
+36_S36_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42_S42_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31_S31_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40_S40_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22_S22_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58_S58_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25_S25_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19_S19_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11_S11_L002_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,+/-,Neurofibromatosistype1,,,,,Illumina Novaseq 6000 S4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cNFOrganoid,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000
+21_S21_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45_S45_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28_S28_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30_S30_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53_S53_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53_S53_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19_S19_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1_S1_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,SecondStranded,Read 1,,,,Gzip,,,Musmusculus,,,,,Result,Mechanical,,No,cNF Organoid Platform,Yes,STARandSalmon,,,,,,RNAseq,Raw,,Skin,No,,Patient-derived cNF organoid,,,,,,,,,,,,,,,
+55_S55_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31_S31_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19_S19_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6_S6_L001_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 2,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+10_S10_L001_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,+/-,Neurofibromatosistype1,,,,,Illumina Novaseq 6000 S4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cNFOrganoid,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000
+40_S40_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16_S16_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16_S16_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5_S5_L002_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 1,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+13_S13_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cNFOrganoid,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000
+7_S7_L003_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 2,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+24_S24_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35_S35_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49_S49_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38_S38_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53_S53_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32_S32_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7_S7_L002_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 2,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+10_S10_L002_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,+/-,Neurofibromatosistype1,,,,,Illumina Novaseq 6000 S4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cNFOrganoid,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000
+8_S8_L002_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 1,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture with StemPro media,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+37_S37_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35_S35_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5_S5_L002_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 2,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+35_S35_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11_S11_L002_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,+/-,Neurofibromatosistype1,,,,,Illumina Novaseq 6000 S4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cNFOrganoid,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000
+54_S54_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9_S9_L003_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 1,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture with StemPro media,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+38_S38_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18_S18_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22_S22_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28_S28_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23_S23_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43_S43_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57_S57_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43_S43_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43_S43_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59_S59_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2_S2_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19_S19_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33_S33_L003_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Fr-firststrand,ControlledAccess,,Neurofibromatosistype1,,,,,Illumina TruSeq,,,,,,,,,Freshcollected,No,SecondStranded,Read 1,,,,Gzip,,,Musmusculus,,Bulkcell,,,Result,,,,A rapid platform for 3D patient-derived cutaneous neurofibroma organoid establishment and screening,Yes,,,,,,,RNAseq,Raw,,Skin,No,,,,,,,,,,PairedEnd,,,,,RNA-seq,,IlluminaNovaSeq6000
+59_S59_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17_S17_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28_S28_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55_S55_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20_S20_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17_S17_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+36_S36_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48_S48_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6_S6_L003_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 1,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+2_S2_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3_S3_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25_S25_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57_S57_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17_S17_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14_S14_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42_S42_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39_S39_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52_S52_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41_S41_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26_S26_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14_S14_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25_S25_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9_S9_L002_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 1,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture with StemPro media,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+39_S39_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23_S23_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13_S13_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cNFOrganoid,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000
+41_S41_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6_S6_L002_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 1,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+39_S39_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58_S58_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29_S29_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30_S30_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27_S27_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42_S42_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10_S10_L002_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,+/-,Neurofibromatosistype1,,,,,Illumina Novaseq 6000 S4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cNFOrganoid,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000
+3_S3_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50_S50_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17_S17_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16_S16_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8_S8_L001_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 1,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture with StemPro media,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+5_S5_L001_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 1,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+27_S27_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59_S59_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10_S10_L003_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,+/-,Neurofibromatosistype1,,,,,Illumina Novaseq 6000 S4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cNFOrganoid,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000
+45_S45_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6_S6_L002_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 2,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+11_S11_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cNFOrganoid,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000
+37_S37_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28_S28_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18_S18_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37_S37_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26_S26_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4_S4_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18_S18_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56_S56_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31_S31_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42_S42_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22_S22_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18_S18_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9_S9_L003_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 2,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture with StemPro media,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+23_S23_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26_S26_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52_S52_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57_S57_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48_S48_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1_S1_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,SecondStranded,Read 2,,,,Gzip,,,Musmusculus,,,,,Result,Mechanical,,No,cNF Organoid Platform,Yes,STARandSalmon,,,,,,RNAseq,Raw,,Skin,No,,Patient-derived cNF organoid,,,,,,,,,,,,,,,
+60_S60_L003_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 1,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,Drug screening on cNF organoids,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+32_S32_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1_S1_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,SecondStranded,Read 2,,,,Gzip,,,Musmusculus,,,,,Result,Mechanical,,No,cNF Organoid Platform,Yes,STARandSalmon,,,,,,RNAseq,Raw,,Skin,No,,Patient-derived cNF organoid,,,,,,,,,,,,,,,
+27_S27_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42_S42_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55_S55_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15_S15_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17_S17_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56_S56_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13_S13_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cNFOrganoid,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000
+32_S32_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3_S3_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22_S22_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51_S51_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56_S56_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8_S8_L002_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 2,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture with StemPro media,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+53_S53_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4_S4_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11_S11_L001_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,+/-,Neurofibromatosistype1,,,,,Illumina Novaseq 6000 S4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cNFOrganoid,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000
+24_S24_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4_S4_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2_S2_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15_S15_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59_S59_L003_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 2,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,Drug screening on cNF organoids,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+52_S52_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15_S15_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48_S48_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24_S24_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54_S54_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21_S21_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20_S20_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40_S40_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23_S23_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21_S21_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37_S37_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51_S51_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38_S38_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33_S33_L001_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Fr-firststrand,ControlledAccess,,Neurofibromatosistype1,,,,,Illumina TruSeq,,,,,,,,,Freshcollected,No,SecondStranded,Read 2,,,,Gzip,,,Musmusculus,,Bulkcell,,,Result,,,,A rapid platform for 3D patient-derived cutaneous neurofibroma organoid establishment and screening,Yes,,,,,,,RNAseq,Raw,,Skin,No,,,,,,,,,,PairedEnd,,,,,RNA-seq,,IlluminaNovaSeq6000
+21_S21_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40_S40_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34_S34_L002_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Fr-firststrand,ControlledAccess,,Neurofibromatosistype1,,,,,Illumina TruSeq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48_S48_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27_S27_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+36_S36_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8_S8_L003_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 2,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture with StemPro media,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+26_S26_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42_S42_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33_S33_L003_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Fr-firststrand,ControlledAccess,,Neurofibromatosistype1,,,,,Illumina TruSeq,,,,,,,,,Freshcollected,No,SecondStranded,Read 2,,,,Gzip,,,Musmusculus,,Bulkcell,,,Result,,,,A rapid platform for 3D patient-derived cutaneous neurofibroma organoid establishment and screening,Yes,,,,,,,RNAseq,Raw,,Skin,No,,,,,,,,,,PairedEnd,,,,,RNA-seq,,IlluminaNovaSeq6000
+58_S58_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8_S8_L001_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 2,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture with StemPro media,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+33_S33_L001_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Fr-firststrand,ControlledAccess,,Neurofibromatosistype1,,,,,Illumina TruSeq,,,,,,,,,Freshcollected,No,SecondStranded,Read 1,,,,Gzip,,,Musmusculus,,Bulkcell,,,Result,,,,A rapid platform for 3D patient-derived cutaneous neurofibroma organoid establishment and screening,Yes,,,,,,,RNAseq,Raw,,Skin,No,,,,,,,,,,PairedEnd,,,,,RNA-seq,,IlluminaNovaSeq6000
+54_S54_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33_S33_L002_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Fr-firststrand,ControlledAccess,,Neurofibromatosistype1,,,,,Illumina TruSeq,,,,,,,,,Freshcollected,No,SecondStranded,Read 1,,,,Gzip,,,Musmusculus,,Bulkcell,,,Result,,,,A rapid platform for 3D patient-derived cutaneous neurofibroma organoid establishment and screening,Yes,,,,,,,RNAseq,Raw,,Skin,No,,,,,,,,,,PairedEnd,,,,,RNA-seq,,IlluminaNovaSeq6000
+55_S55_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15_S15_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31_S31_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55_S55_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+36_S36_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51_S51_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52_S52_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1_S1_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,SecondStranded,Read 1,,,,Gzip,,,Musmusculus,,,,,Result,Mechanical,,No,cNF Organoid Platform,Yes,STARandSalmon,,,,,,RNAseq,Raw,,Skin,No,,Patient-derived cNF organoid,,,,,,,,,,,,,,,
+35_S35_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53_S53_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22_S22_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15_S15_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16_S16_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26_S26_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40_S40_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41_S41_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40_S40_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43_S43_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20_S20_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54_S54_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19_S19_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13_S13_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cNFOrganoid,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000
+21_S21_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56_S56_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48_S48_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29_S29_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35_S35_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27_S27_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54_S54_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39_S39_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10_S10_L003_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,+/-,Neurofibromatosistype1,,,,,Illumina Novaseq 6000 S4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cNFOrganoid,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000
+1_S1_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,SecondStranded,Read 1,,,,Gzip,,,Musmusculus,,,,,Result,Mechanical,,No,cNF Organoid Platform,Yes,STARandSalmon,,,,,,RNAseq,Raw,,Skin,No,,Patient-derived cNF organoid,,,,,,,,,,,,,,,
+30_S30_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43_S43_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29_S29_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12_S12_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cNFOrganoid,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000
+18_S18_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23_S23_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6_S6_L003_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 2,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+56_S56_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8_S8_L003_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 1,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture with StemPro media,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+29_S29_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3_S3_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30_S30_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12_S12_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cNFOrganoid,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000
+4_S4_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34_S34_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50_S50_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28_S28_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12_S12_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cNFOrganoid,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000
+10_S10_L001_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,+/-,Neurofibromatosistype1,,,,,Illumina Novaseq 6000 S4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cNFOrganoid,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000
+59_S59_L003_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 1,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,Drug screening on cNF organoids,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+2_S2_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7_S7_L003_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 1,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+58_S58_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12_S12_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cNFOrganoid,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000
+60_S60_L001_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 1,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,Drug screening on cNF organoids,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+14_S14_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33_S33_L002_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Fr-firststrand,ControlledAccess,,Neurofibromatosistype1,,,,,Illumina TruSeq,,,,,,,,,Freshcollected,No,SecondStranded,Read 2,,,,Gzip,,,Musmusculus,,Bulkcell,,,Result,,,,A rapid platform for 3D patient-derived cutaneous neurofibroma organoid establishment and screening,Yes,,,,,,,RNAseq,Raw,,Skin,No,,,,,,,,,,PairedEnd,,,,,RNA-seq,,IlluminaNovaSeq6000
+43_S43_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13_S13_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cNFOrganoid,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000
+39_S39_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25_S25_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11_S11_L001_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,+/-,Neurofibromatosistype1,,,,,Illumina Novaseq 6000 S4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cNFOrganoid,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000
+9_S9_L002_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 2,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture with StemPro media,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+49_S49_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59_S59_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5_S5_L003_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 2,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+31_S31_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7_S7_L001_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 2,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+60_S60_L001_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 2,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,Drug screening on cNF organoids,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+35_S35_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9_S9_L001_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 2,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture with StemPro media,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+52_S52_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9_S9_L001_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 1,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture with StemPro media,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+29_S29_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14_S14_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25_S25_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52_S52_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24_S24_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38_S38_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15_S15_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39_S39_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45_S45_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37_S37_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27_S27_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41_S41_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13_S13_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cNFOrganoid,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000
+3_S3_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58_S58_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28_S28_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51_S51_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2_S2_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+60_S60_L002_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 2,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,Drug screening on cNF organoids,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+30_S30_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34_S34_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48_S48_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5_S5_L003_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 1,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+50_S50_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14_S14_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12_S12_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cNFOrganoid,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000
+50_S50_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20_S20_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56_S56_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22_S22_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32_S32_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4_S4_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32_S32_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16_S16_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38_S38_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2_S2_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20_S20_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32_S32_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54_S54_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57_S57_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51_S51_L002_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57_S57_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+60_S60_L002_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 1,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,Drug screening on cNF organoids,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+34_S34_L001_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Fr-firststrand,ControlledAccess,,Neurofibromatosistype1,,,,,Illumina TruSeq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51_S51_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23_S23_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55_S55_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3_S3_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7_S7_L001_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 1,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+16_S16_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45_S45_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21_S21_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7_S7_L002_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 1,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+36_S36_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41_S41_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12_S12_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cNFOrganoid,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000
+36_S36_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45_S45_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53_S53_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20_S20_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25_S25_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50_S50_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4_S4_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26_S26_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1_S1_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,SecondStranded,Read 2,,,,Gzip,,,Musmusculus,,,,,Result,Mechanical,,No,cNF Organoid Platform,Yes,STARandSalmon,,,,,,RNAseq,Raw,,Skin,No,,Patient-derived cNF organoid,,,,,,,,,,,,,,,
+34_S34_L001_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Fr-firststrand,ControlledAccess,,Neurofibromatosistype1,,,,,Illumina TruSeq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18_S18_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37_S37_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31_S31_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24_S24_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58_S58_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11_S11_L003_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cNFOrganoid,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000
+29_S29_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19_S19_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17_S17_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24_S24_L002_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38_S38_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34_S34_L002_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Fr-firststrand,ControlledAccess,,Neurofibromatosistype1,,,,,Illumina TruSeq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5_S5_L001_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 2,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+30_S30_L001_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41_S41_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45_S45_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14_S14_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+60_S60_L003_R2_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 2,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,Drug screening on cNF organoids,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4
+57_S57_L001_R1_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50_S50_L003_R2_001.fastq.gz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6_S6_L001_R1_001.fastq.gz,cNF Organoid Study,,,,,,,,Yes,Inward,ControlledAccess,,,,,,,Illumina,,,,,,,,,Freshcollected,No,Unstranded,Read 1,,,,Gzip,,,Musmusculus,,Bulkcell,,NF1,Result,,,No,,,STARandSalmon,,,,,,Genomicsequence,Raw,,,,,cNF organoid culture,,,,,,,,PairedEnd,,,,,RNASeq,,IlluminaNovaSeq6000S4

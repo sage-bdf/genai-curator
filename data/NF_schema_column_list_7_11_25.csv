@@ -1,0 +1,87 @@
+Column,Classification,Frequency,Example_Files,Schema_Status,Schema_Match
+dataSubtype,Evaluate,38,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),DataSubtype
+dataType,Evaluate,38,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),DataType
+fileFormat,Evaluate,38,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),FileFormat
+individualID,Evaluate,38,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),IndividualID
+resourceType,Evaluate,38,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),ResourceType
+specimenID,Evaluate,38,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),SpecimenID
+studyId,Evaluate,38,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),StudyId
+tumorType,Evaluate,38,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),TumorType
+nf1Genotype,Evaluate,36,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),Nf1Genotype
+nf2Genotype,Evaluate,36,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),Nf2Genotype
+cellType,Evaluate,32,"nf_10.csv, nf_11.csv, nf_12.csv",Found (Case Insensitive),CellType
+runType,Evaluate,26,"nf_12.csv, nf_13.csv, nf_14.csv",Found (Case Insensitive),RunType
+modifiedBy,Evaluate,23,"nf_13.csv, nf_14.csv, nf_15.csv",Found (Case Insensitive),ModifiedBy
+diagnosis,Evaluate,22,"nf_10.csv, nf_11.csv, nf_17.csv",Found (Case Insensitive),Diagnosis
+readLength,Evaluate,22,"nf_12.csv, nf_13.csv, nf_14.csv",Found (Case Insensitive),ReadLength
+studyName,Evaluate,21,"nf_2.csv, nf_21.csv, nf_22.csv",Found (Case Insensitive),StudyName
+platform,Evaluate,20,"nf_12.csv, nf_14.csv, nf_15.csv",Found (Case Insensitive),Platform
+readPairOrientation,Evaluate,20,"nf_12.csv, nf_13.csv, nf_14.csv",Found (Case Insensitive),ReadPairOrientation
+experimentalCondition,Evaluate,20,"nf_17.csv, nf_18.csv, nf_19.csv",Found (Case Insensitive),ExperimentalCondition
+transplantationType,Evaluate,17,"nf_17.csv, nf_18.csv, nf_19.csv",Found (Case Insensitive),TransplantationType
+parentSpecimenID,Evaluate,15,"nf_1.csv, nf_2.csv, nf_3.csv",Found (Case Insensitive),ParentSpecimenID
+accessType,Evaluate,15,"nf_12.csv, nf_13.csv, nf_14.csv",Found (Case Insensitive),AccessType
+genePerturbationType,Evaluate,14,"nf_17.csv, nf_18.csv, nf_19.csv",Found (Case Insensitive),GenePerturbationType
+Component,Evaluate,14,"nf_21.csv, nf_22.csv, nf_23.csv",Found (Exact),Component
+aliquotID,Evaluate,12,"nf_2.csv, nf_3.csv, nf_33.csv",Found (Case Insensitive),AliquotID
+drugScreenType,Evaluate,11,"nf_10.csv, nf_11.csv, nf_17.csv",Found (Case Insensitive),DrugScreenType
+averageInsertSize,Evaluate,3,"nf_28.csv, nf_29.csv, nf_30.csv",Found (Case Insensitive),AverageInsertSize
+averageReadLength,Evaluate,3,"nf_28.csv, nf_29.csv, nf_30.csv",Found (Case Insensitive),AverageReadLength
+Filename,Evaluate,2,"nf_24.csv, nf_25.csv",Found (Exact),Filename
+libraryPreparationMethod,Evaluate,1,nf_14.csv,Found (Case Insensitive),LibraryPreparationMethod
+modelSystemName,Evaluate,1,nf_32.csv,Found (Case Insensitive),ModelSystemName
+targetCaptureKitID,Evaluate,1,nf_6.csv,Found (Case Insensitive),TargetCaptureKitID
+assay,Evaluate,38,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),Assay
+species,Evaluate,38,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),Species
+fundingAgency,Evaluate,36,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),FundingAgency
+sex,Evaluate,36,"nf_1.csv, nf_12.csv, nf_13.csv",Found (Case Insensitive),Sex
+isCellLine,Evaluate,34,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),IsCellLine
+initiative,Evaluate,32,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),Initiative
+organ,Evaluate,31,"nf_10.csv, nf_11.csv, nf_12.csv",Found (Case Insensitive),Organ
+tissue,Evaluate,31,"nf_10.csv, nf_11.csv, nf_12.csv",Found (Case Insensitive),Tissue
+readPair,Evaluate,28,"nf_12.csv, nf_13.csv, nf_14.csv",Found (Case Insensitive),ReadPair
+isPrimaryCell,Evaluate,26,"nf_1.csv, nf_13.csv, nf_14.csv",Found (Case Insensitive),IsPrimaryCell
+modelSystemName,Evaluate,24,"nf_1.csv, nf_12.csv, nf_2.csv",Found (Case Insensitive),ModelSystemName
+libraryPrep,Evaluate,24,"nf_12.csv, nf_13.csv, nf_14.csv",Found (Case Insensitive),LibraryPrep
+age,Evaluate,22,"nf_1.csv, nf_2.csv, nf_21.csv",Found (Case Insensitive),Age
+nucleicAcidSource,Evaluate,22,"nf_1.csv, nf_12.csv, nf_13.csv",Found (Case Insensitive),NucleicAcidSource
+readStrandOrigin,Evaluate,22,"nf_12.csv, nf_13.csv, nf_14.csv",Found (Case Insensitive),ReadStrandOrigin
+libraryPreparationMethod,Evaluate,22,"nf_13.csv, nf_15.csv, nf_16.csv",Found (Case Insensitive),LibraryPreparationMethod
+isMultiIndividual,Evaluate,21,"nf_10.csv, nf_11.csv, nf_12.csv",Found (Case Insensitive),IsMultiIndividual
+isMultiSpecimen,Evaluate,21,"nf_10.csv, nf_11.csv, nf_12.csv",Found (Case Insensitive),IsMultiSpecimen
+isStranded,Evaluate,19,"nf_12.csv, nf_13.csv, nf_14.csv",Found (Case Insensitive),IsStranded
+timePointUnit,Evaluate,19,"nf_17.csv, nf_18.csv, nf_19.csv",Found (Case Insensitive),TimepointUnit
+progressReportNumber,Evaluate,18,"nf_1.csv, nf_2.csv, nf_28.csv",Found (Case Insensitive),ProgressReportNumber
+specimenPreparationMethod,Evaluate,18,"nf_12.csv, nf_2.csv, nf_21.csv",Found (Case Insensitive),SpecimenPreparationMethod
+dissociationMethod,Evaluate,17,"nf_13.csv, nf_14.csv, nf_15.csv",Found (Case Insensitive),DissociationMethod
+diagnosis,Evaluate,16,"nf_1.csv, nf_12.csv, nf_13.csv",Found (Case Insensitive),Diagnosis
+platform,Evaluate,16,"nf_1.csv, nf_13.csv, nf_16.csv",Found (Case Insensitive),Platform
+ageUnit,Evaluate,15,"nf_1.csv, nf_2.csv, nf_3.csv",Found (Case Insensitive),AgeUnit
+studyName,Evaluate,15,"nf_1.csv, nf_10.csv, nf_11.csv",Found (Case Insensitive),StudyName
+genePerturbationTechnology,Evaluate,14,"nf_17.csv, nf_18.csv, nf_19.csv",Found (Case Insensitive),GenePerturbationTechnology
+genePerturbed,Evaluate,14,"nf_17.csv, nf_18.csv, nf_19.csv",Found (Case Insensitive),GenePerturbed
+compoundName,Evaluate,11,"nf_17.csv, nf_18.csv, nf_19.csv",Found (Case Insensitive),CompoundName
+comments,Evaluate,9,"nf_2.csv, nf_22.csv, nf_23.csv",Found (Case Insensitive),Comments
+readDepth,Evaluate,9,"nf_2.csv, nf_3.csv, nf_33.csv",Found (Case Insensitive),ReadDepth
+specimenIdSource,Evaluate,8,"nf_13.csv, nf_14.csv, nf_15.csv",Found (Case Insensitive),SpecimenIDSource
+transplantationRecipientTissue,Evaluate,8,"nf_17.csv, nf_18.csv, nf_19.csv",Found (Case Insensitive),TransplantationRecipientTissue
+transplantationRecipientSpecies,Evaluate,8,"nf_24.csv, nf_25.csv, nf_33.csv",Found (Case Insensitive),TransplantationRecipientSpecies
+experimentalTimepoint,Evaluate,8,"nf_33.csv, nf_34.csv, nf_35.csv",Found (Case Insensitive),ExperimentalTimepoint
+isXenograft,Evaluate,6,"nf_1.csv, nf_21.csv, nf_22.csv",Found (Case Insensitive),IsXenograft
+individualIdSource,Evaluate,6,"nf_13.csv, nf_14.csv, nf_15.csv",Found (Case Insensitive),IndividualIdSource
+experimentalTimePoint,Evaluate,6,"nf_17.csv, nf_18.csv, nf_19.csv",Found (Case Insensitive),ExperimentalTimepoint
+compoundDoseUnit,Evaluate,6,"nf_17.csv, nf_18.csv, nf_19.csv",Found (Case Insensitive),CompoundDoseUnit
+libraryStrand,Evaluate,6,"nf_21.csv, nf_22.csv, nf_23.csv",Found (Case Insensitive),LibraryStrand
+workflow,Evaluate,5,"nf_26.csv, nf_27.csv, nf_28.csv",Found (Case Insensitive),Workflow
+workflowLink,Evaluate,5,"nf_26.csv, nf_27.csv, nf_28.csv",Found (Case Insensitive),WorkflowLink
+pain,Evaluate,4,"nf_13.csv, nf_14.csv, nf_15.csv",Found (Case Insensitive),Pain
+averageBaseQuality,Evaluate,3,"nf_28.csv, nf_29.csv, nf_30.csv",Found (Case Insensitive),AverageBaseQuality
+expressionUnit,Evaluate,3,"nf_28.csv, nf_29.csv, nf_30.csv",Found (Case Insensitive),ExpressionUnit
+genomicReference,Evaluate,3,"nf_28.csv, nf_29.csv, nf_30.csv",Found (Case Insensitive),GenomicReference
+pairsOnDifferentChr,Evaluate,3,"nf_28.csv, nf_29.csv, nf_30.csv",Found (Case Insensitive),PairsOnDifferentChr
+readsDuplicatedPercent,Evaluate,3,"nf_28.csv, nf_29.csv, nf_30.csv",Found (Case Insensitive),ReadsDuplicatedPercent
+readsMappedPercent,Evaluate,3,"nf_28.csv, nf_29.csv, nf_30.csv",Found (Case Insensitive),ReadsMappedPercent
+totalReads,Evaluate,3,"nf_28.csv, nf_29.csv, nf_30.csv",Found (Case Insensitive),TotalReads
+compoundDose,Evaluate,2,"nf_31.csv, nf_32.csv",Found (Case Insensitive),CompoundDose
+channel,Evaluate,1,nf_4.csv,Found (Case Insensitive),Channel
+targetDepth,Evaluate,1,nf_9.csv,Found (Case Insensitive),TargetDepth

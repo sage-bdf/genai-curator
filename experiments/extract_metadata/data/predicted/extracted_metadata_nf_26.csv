@@ -1,0 +1,123 @@
+name,studyId,targetCaptureKitID,aliquotID,specimenID,individualID,parentSpecimenID,transplantationType,compoundDoseUnit,isStranded,readPairOrientation,accessType,nf1Genotype,diagnosis,targetDepth,age,ageUnit,isCellLine,libraryPreparationMethod,averageBaseQuality,sex,genePerturbationType,compoundDose,readDepth,readLength,readStrandOrigin,progressReportNumber,specimenPreparationMethod,isMultiIndividual,libraryStrand,readPair,initiative,genePerturbationTechnology,comments,fileFormat,nf2Genotype,Component,species,fundingAgency,nucleicAcidSource,channel,genePerturbed,resourceType,dissociationMethod,readsDuplicatedPercent,isMultiSpecimen,studyName,isPrimaryCell,workflow,workflowLink,pairsOnDifferentChr,transplantationRecipientTissue,individualIdSource,totalReads,dataType,dataSubtype,genomicReference,organ,isXenograft,drugScreenType,experimentalCondition,modelSystemName,libraryPrep,tumorType,expressionUnit,readsMappedPercent,averageInsertSize,compoundName,runType,transplantationRecipientSpecies,cellType,modifiedBy,experimentalTimepoint,assay,averageReadLength,platform
+200959030055_R03C01_Grn.idat,SH/VAI IRB#2014-295,,,,,,,,,,ControlledAccess,-/-,Neurofibromatosistype1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200932680002_R01C01_Grn.idat,SH/VAI IRB#2014-295,,,,,,,,,,ControlledAccess,-/-,Neurofibromatosistype1,,,,,,,,,,,,,,,No,,,,,Illumina Infinium MethylationEPIC BeadChip array data from neurofibroma tissue sample,IDAT,,MethylationArray,Homosapiens,,,,NF1,Result,,,No,Distinctive epigenomic alterations in NF1-deficient cutaneous and plexiform neurofibromas,,Illumina MethylationEPIC,,,,,,Methylation,Raw,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640072_R04C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820010_R06C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820040_R07C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640024_R07C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200932680002_R05C01_Red.idat,SH/VAI IRB#2014-295,,,,,,,,,,ControlledAccess,-/-,Neurofibromatosistype1,,,,,,,,,,,,,,,No,,,,,Illumina Infinium MethylationEPIC BeadChip array data from neurofibroma tissue sample,IDAT,,MethylationArray,Homosapiens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820130_R06C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640024_R03C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640063_R06C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820087_R02C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640072_R03C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820087_R05C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640024_R05C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820130_R07C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640063_R02C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200959030055_R02C01_Grn.idat,SH/VAI IRB#2014-295,,,,,,,,,,ControlledAccess,-/-,Neurofibromatosistype1,,,,,,,,,,,,,,,No,,,,,Illumina Infinium MethylationEPIC BeadChip array data from neurofibroma tissue sample,IDAT,,MethylationArray,Homosapiens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200959030055_R07C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640024_R04C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820130_R06C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200959030055_R05C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200932680002_R03C01_Red.idat,SH/VAI IRB#2014-295,,,,,,,,,,ControlledAccess,-/-,Neurofibromatosistype1,,,,,,,,,,,,,,,No,,,,,Illumina Infinium MethylationEPIC BeadChip array data from neurofibroma tissue sample,IDAT,,MethylationArray,Homosapiens,,,,NF1,Result,,,No,Distinctive epigenomic alterations in NF1-deficient cutaneous and plexiform neurofibromas,,Illumina MethylationEPIC,,,,,,Methylation,Raw,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640072_R03C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820040_R04C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820130_R01C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200932680002_R08C01_Red.idat,SH/VAI IRB#2014-295,,,,,,,,,,ControlledAccess,-/-,Neurofibromatosistype1,,,,,,,,,,,,,,,No,,,,,Illumina Infinium MethylationEPIC BeadChip array data from neurofibroma tissue sample,IDAT,,MethylationArray,Homosapiens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820087_R04C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200932680002_R08C01_Grn.idat,SH/VAI IRB#2014-295,,,,,,,,,,ControlledAccess,-/-,Neurofibromatosistype1,,,,,,,,,,,,,,,No,,,,,Illumina Infinium MethylationEPIC BeadChip array data from neurofibroma tissue sample,IDAT,,MethylationArray,Homosapiens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200932680002_R04C01_Grn.idat,SH/VAI IRB#2014-295,,,,,,,,,,ControlledAccess,-/-,Neurofibromatosistype1,,,,,,,,,,,,,,,No,,,,,Illumina Infinium MethylationEPIC BeadChip array data from neurofibroma tissue sample,IDAT,,MethylationArray,Homosapiens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200959030055_R06C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820040_R03C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640024_R03C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200959030055_R01C01_Grn.idat,SH/VAI IRB#2014-295,,,,,,,,,,ControlledAccess,-/-,Neurofibromatosistype1,,,,,,,,,,,,,,,No,,,,,Illumina Infinium MethylationEPIC BeadChip array data from neurofibroma tissue sample,IDAT,,MethylationArray,Homosapiens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820087_R04C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233650020_R03C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200959030055_R03C01_Red.idat,SH/VAI IRB#2014-295,,,,,,,,,,ControlledAccess,-/-,Neurofibromatosistype1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640063_R04C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640063_R05C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820010_R07C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820040_R08C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200932680002_R01C01_Red.idat,SH/VAI IRB#2014-295,,,,,,,,,,ControlledAccess,-/-,Neurofibromatosistype1,,,,,,,,,,,,,,,No,,,,,Illumina Infinium MethylationEPIC BeadChip array data from neurofibroma tissue sample,IDAT,,MethylationArray,Homosapiens,,,,NF1,Result,,,No,Distinctive epigenomic alterations in NF1-deficient cutaneous and plexiform neurofibromas,,Illumina MethylationEPIC,,,,,,Methylation,Raw,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820130_R03C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820040_R07C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640063_R03C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640024_R07C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233650020_R02C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233650020_R06C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233650020_R01C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820010_R03C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820010_R01C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200959030055_R01C01_Red.idat,SH/VAI IRB#2014-295,,,,,,,,,,ControlledAccess,-/-,Neurofibromatosistype1,,,,,,,,,,,,,,,No,,,,,Illumina Infinium MethylationEPIC BeadChip array data from neurofibroma tissue sample,IDAT,,MethylationArray,Homosapiens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820087_R02C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820040_R01C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820087_R08C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820010_R05C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233650020_R07C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820087_R05C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200959030055_R08C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200932680002_R02C01_Grn.idat,SH/VAI IRB#2014-295,,,,,,,,,,ControlledAccess,-/-,Neurofibromatosistype1,,,,,,,,,,,,,,,No,,,,,Illumina Infinium MethylationEPIC BeadChip array data from neurofibroma tissue sample,IDAT,,MethylationArray,Homosapiens,,,,NF1,Result,,,No,Distinctive epigenomic alterations in NF1-deficient cutaneous and plexiform neurofibromas,,Illumina MethylationEPIC,,,,,,Methylation,Raw,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640063_R05C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233650020_R02C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200932680002_R05C01_Grn.idat,SH/VAI IRB#2014-295,,,,,,,,,,ControlledAccess,-/-,Neurofibromatosistype1,,,,,,,,,,,,,,,No,,,,,Illumina Infinium MethylationEPIC BeadChip array data from neurofibroma tissue sample,IDAT,,MethylationArray,Homosapiens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200959030055_R05C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820010_R03C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820040_R05C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233650020_R06C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200959030055_R06C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233650020_R08C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233650020_R08C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200959030055_R02C01_Red.idat,SH/VAI IRB#2014-295,,,,,,,,,,ControlledAccess,-/-,Neurofibromatosistype1,,,,,,,,,,,,,,,No,,,,,Illumina Infinium MethylationEPIC BeadChip array data from neurofibroma tissue sample,IDAT,,MethylationArray,Homosapiens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820010_R01C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820130_R03C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200959030055_R08C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820010_R07C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820087_R08C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820130_R01C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820040_R08C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640024_R04C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640024_R06C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233650020_R03C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200959030055_R07C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820040_R06C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233650020_R05C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820010_R02C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640072_R04C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820130_R04C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820010_R08C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233650020_R07C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640024_R05C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820040_R02C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820130_R04C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233650066_R08C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200959030055_R04C01_Red.idat,SH/VAI IRB#2014-295,,,,,,,,,,ControlledAccess,-/-,Neurofibromatosistype1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820040_R05C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820130_R07C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820040_R01C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640063_R06C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200932680002_R02C01_Red.idat,SH/VAI IRB#2014-295,,,,,,,,,,ControlledAccess,-/-,Neurofibromatosistype1,,,,,,,,,,,,,,,No,,,,,Illumina Infinium MethylationEPIC BeadChip array data from neurofibroma tissue sample,IDAT,,MethylationArray,Homosapiens,,,,NF1,Result,,,No,Distinctive epigenomic alterations in NF1-deficient cutaneous and plexiform neurofibromas,,Illumina MethylationEPIC,,,,,,Methylation,Raw,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200932680002_R04C01_Red.idat,SH/VAI IRB#2014-295,,,,,,,,,,ControlledAccess,-/-,Neurofibromatosistype1,,,,,,,,,,,,,,,No,,,,,Illumina Infinium MethylationEPIC BeadChip array data from neurofibroma tissue sample,IDAT,,MethylationArray,Homosapiens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233650020_R01C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820010_R04C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820010_R08C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820040_R03C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640063_R03C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233650066_R08C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820010_R04C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820040_R02C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200959030055_R04C01_Grn.idat,SH/VAI IRB#2014-295,,,,,,,,,,ControlledAccess,-/-,Neurofibromatosistype1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640024_R06C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640024_R02C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640063_R04C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200932680002_R03C01_Grn.idat,SH/VAI IRB#2014-295,,,,,,,,,,ControlledAccess,-/-,Neurofibromatosistype1,,,,,,,,,,,,,,,No,,,,,Illumina Infinium MethylationEPIC BeadChip array data from neurofibroma tissue sample,IDAT,,MethylationArray,Homosapiens,,,,NF1,Result,,,No,Distinctive epigenomic alterations in NF1-deficient cutaneous and plexiform neurofibromas,,Illumina MethylationEPIC,,,,,,Methylation,Raw,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640063_R07C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820010_R05C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233650020_R05C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820010_R02C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640024_R02C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820040_R06C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640063_R07C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820010_R06C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+201233640063_R02C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan
+200969820040_R04C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Illumina Infinium MethylationEPIC array,,Illumina iScan

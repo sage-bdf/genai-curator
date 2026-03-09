@@ -1,0 +1,565 @@
+{
+  "fields": [
+    {
+      "name": "name",
+      "description": "The primary key of this schema, representing the raw data for a single specimen.",
+      "sample_values": [
+        "MS02-2.txt",
+        "AS-167591-LR-25156_R1.fastq.gz"
+      ]
+    },
+    {
+      "name": "studyId",
+      "description": "Id of study."
+    },
+    {
+      "name": "targetCaptureKitID",
+      "description": "A unique identifier for the kit used to construct a genomic library using target capture-based techniques, which should be composed of the vendor name, kit name and kit version.\n"
+    },
+    {
+      "name": "aliquotID",
+      "description": "A unique identifier (non-PII) that represents the aliquots used for e.g. replicate runs. This is linked to the specimenID."
+    },
+    {
+      "name": "specimenID",
+      "description": "A unique identifier (non-PII) that represents the subspecimen (subsample) from which the data came,  e.g. an ID that distinguishes between different parts of the same parent tumor specimen.\n"
+    },
+    {
+      "name": "individualID",
+      "description": "A unique identifier (non-PII) that represents the individual from which the data came. This could be a patient or animal ID."
+    },
+    {
+      "name": "parentSpecimenID",
+      "description": "A unique identifier (non-PII) that represents the parent specimen (sample) from which the data came from, e.g. the single parent tumor that was subsectioned into several samples.  The parentSpecimenID can be the same as specimenID when there is no subsectioning.\n"
+    },
+    {
+      "name": "transplantationType",
+      "description": "Type of transplantation involved in the experiment, derived from MESH",
+      "sample_values": [
+        "Allograft",
+        "Xenograft",
+        "Autograft",
+        "Isograft"
+      ]
+    },
+    {
+      "name": "compoundDoseUnit",
+      "description": "A unit associated with the value(s) in compoundDose."
+    },
+    {
+      "name": "isStranded",
+      "description": "Whether or not the library is stranded (Yes; No)",
+      "sample_values": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "readPairOrientation",
+      "description": "The relative orientation of the reads in a paired-end protocol",
+      "sample_values": [
+        "Fr-firststrand",
+        "Inward",
+        "Matching",
+        "Outward"
+      ]
+    },
+    {
+      "name": "accessType",
+      "description": "Indicates access type / possible procedures needed for access to the resource.",
+      "sample_values": [
+        "PublicAccess",
+        "OpenAccess",
+        "ControlledAccess",
+        "PrivateAccess"
+      ]
+    },
+    {
+      "name": "nf1Genotype",
+      "description": "Genotype of NF1 gene in the biospecimen from which the data were derived, if known.",
+      "sample_values": [
+        "-/-",
+        "+/-",
+        "+/+",
+        "Unknown"
+      ]
+    },
+    {
+      "name": "diagnosis",
+      "description": "Diagnosis for the individual given signs and symptoms. Use the most specific diagnosis term that applies.",
+      "sample_values": [
+        "Unknown",
+        "NF2-relatedschwannomatosis",
+        "Neurofibromatosistype1",
+        "NoonanSyndrome",
+        "SporadicSchwannoma"
+      ]
+    },
+    {
+      "name": "targetDepth",
+      "description": "The targeted read depth prior to sequencing."
+    },
+    {
+      "name": "age",
+      "description": "A numeric value representing age of the individual. Use with `ageUnit`."
+    },
+    {
+      "name": "ageUnit",
+      "description": "A time unit that can be used with a given age value, e.g. years.",
+      "sample_values": [
+        "Weeks",
+        "Minutes",
+        "Years",
+        "Seconds",
+        "Months"
+      ]
+    },
+    {
+      "name": "isCellLine",
+      "description": "Whether or not sample source is a cell line (Yes; No)",
+      "sample_values": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "libraryPreparationMethod",
+      "description": "Method by which library was prepared",
+      "sample_values": [
+        "TruSeqstandardtotalRNAlibrarykit",
+        "IlluminaTruSeqDNANano",
+        "TruSeq",
+        "Smart-seq2",
+        "IlluminaTn5Transposase"
+      ]
+    },
+    {
+      "name": "averageBaseQuality",
+      "description": "Average base quality collected from samtools"
+    },
+    {
+      "name": "sex",
+      "description": "Phenotypic expression of chromosomal makeup that defines a study subject as male, female, or other.",
+      "sample_values": [
+        "Male",
+        "Female",
+        "Unknown",
+        "NotApplicable"
+      ]
+    },
+    {
+      "name": "genePerturbationType",
+      "description": "Specific way in which a single gene was perturbed in a sample",
+      "sample_values": [
+        "CRERecombinase",
+        "CRISPR",
+        "RNAi"
+      ]
+    },
+    {
+      "name": "compoundDose",
+      "description": "A dose quantity for the treatment compound. To be used with compoundDoseUnit."
+    },
+    {
+      "name": "readDepth",
+      "description": "If available, the coverage statistic as output from bedtools coverage or samtools stats."
+    },
+    {
+      "name": "readLength",
+      "description": "Number of base pairs (bp) sequenced for a read"
+    },
+    {
+      "name": "readStrandOrigin",
+      "description": "The strand from which the read originates in a strand-specific protocol",
+      "sample_values": [
+        "Forward",
+        "Reverse"
+      ]
+    },
+    {
+      "name": "progressReportNumber",
+      "description": " if submitting data for the 6-month milestone report for NTAP, progressReportNumber=1.  Also if submitting data associated with first milestone, progressReportNumber =1",
+      "sample_values": [
+        "4",
+        "8",
+        "2",
+        "NotApplicable",
+        "1"
+      ]
+    },
+    {
+      "name": "specimenPreparationMethod",
+      "description": "Term that represents preservation of the sample before usage in, e.g. sequencing",
+      "sample_values": [
+        "Viablyfrozen",
+        "Ethanol",
+        "Formalin-fixed",
+        "OCT",
+        "Freshcollected"
+      ]
+    },
+    {
+      "name": "isMultiIndividual",
+      "description": "Whether or not a file has data for multiple individuals (Yes; No)",
+      "sample_values": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "libraryStrand",
+      "description": "Strandedness of paired-end RNA-Sequencing data. This is an important parameter for RNA-seq analysis.",
+      "sample_values": [
+        "FirstStranded",
+        "SecondStranded",
+        "Unstranded",
+        "NotApplicable"
+      ]
+    },
+    {
+      "name": "readPair",
+      "description": "The read of origin, Read 1 or Read 2"
+    },
+    {
+      "name": "initiative",
+      "description": "Refers to a funding initiative. Typically handled by the DCC."
+    },
+    {
+      "name": "genePerturbationTechnology",
+      "description": "Technology used to perturb gene",
+      "sample_values": [
+        "RNAi",
+        "CRISPR",
+        "CRERecombinase",
+        "CRISPRAssistedmRNAFragmentTrans-splicing(CRAFT)"
+      ]
+    },
+    {
+      "name": "comments",
+      "description": "Brief free-text comments that may also be important to understanding the resource."
+    },
+    {
+      "name": "fileFormat",
+      "description": "Defined format of the data file, typically corresponding to extension, but sometimes indicating more general group of files produced by the same tool or software",
+      "sample_values": [
+        "DICOM",
+        "Csi",
+        "Gzip",
+        "Dat",
+        "Ctab"
+      ]
+    },
+    {
+      "name": "nf2Genotype",
+      "description": "Genotype of NF2 gene in the biospecimen from which the data were derived, if known",
+      "sample_values": [
+        "-/-",
+        "+/-",
+        "+/+",
+        "Unknown"
+      ]
+    },
+    {
+      "name": "Component",
+      "description": "Type of metadata template; provide the same one for all items/rows."
+    },
+    {
+      "name": "species",
+      "description": "The name of a species (typically a taxonomic group) of organism.",
+      "sample_values": [
+        "Pantroglodytes",
+        "Daniorerio",
+        "Rhesusmacaque",
+        "Susscrofa",
+        "Musmusculus"
+      ]
+    },
+    {
+      "name": "fundingAgency",
+      "description": "Refers to the funding organization for the generated resource. This annotation is handled by the DCC."
+    },
+    {
+      "name": "nucleicAcidSource",
+      "description": "Source of the extracted nucleic acid used in the experiment",
+      "sample_values": [
+        "Bulkcell",
+        "Bulknuclei",
+        "Mitochondria",
+        "Singlecell",
+        "Singlenucleus"
+      ]
+    },
+    {
+      "name": "channel",
+      "description": "Color channel used to generate data file.",
+      "sample_values": [
+        "Cy3",
+        "Cy5",
+        "NotApplicable"
+      ]
+    },
+    {
+      "name": "genePerturbed",
+      "description": "The HUGO gene symbol for the gene that is perturbed."
+    },
+    {
+      "name": "resourceType",
+      "description": "The type of resource being stored and annotated",
+      "sample_values": [
+        "Metadata",
+        "Report",
+        "Protocol",
+        "Result",
+        "Weblink"
+      ]
+    },
+    {
+      "name": "dissociationMethod",
+      "description": "Procedure by which a biological specimen is dissociated into individual cells or a cell suspension",
+      "sample_values": [
+        "10xV2",
+        "FluidigmC1",
+        "Mechanical",
+        "FACS",
+        "Mouthpipette"
+      ]
+    },
+    {
+      "name": "readsDuplicatedPercent",
+      "description": "Percent of duplicated reads collected from samtools"
+    },
+    {
+      "name": "isMultiSpecimen",
+      "description": "Whether or not a file has data for multiple specimens (Yes; No)",
+      "sample_values": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "studyName",
+      "description": "Name of a study."
+    },
+    {
+      "name": "isPrimaryCell",
+      "description": "Whether or not cellType is primary (Yes; No)",
+      "sample_values": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "workflow",
+      "description": "Name and version of the workflow used to generate/analyze the data",
+      "sample_values": [
+        "Strelka2",
+        "DESeq2",
+        "Sarek",
+        "CNVkit",
+        "STARandSalmon"
+      ]
+    },
+    {
+      "name": "workflowLink",
+      "description": "Workflow URL reference"
+    },
+    {
+      "name": "pairsOnDifferentChr",
+      "description": "Pairs on different chromosomes collected from samtools"
+    },
+    {
+      "name": "transplantationRecipientTissue",
+      "description": "Tissue into which a xenograph sample is transplanted",
+      "sample_values": [
+        "Tumor-adjacentnormal",
+        "Plasma",
+        "Cerebralcortex",
+        "Connectivetissue",
+        "Serum"
+      ]
+    },
+    {
+      "name": "individualIdSource",
+      "description": "Database or repository to which individual ID maps"
+    },
+    {
+      "name": "totalReads",
+      "description": "If available, the total number of reads collected from samtools."
+    },
+    {
+      "name": "dataType",
+      "description": "Links an entity to data types that the entity represents/contains. This is closely tied to the assay property. For example, a file of dataType `genomicVariants` might have an assay value of `whole genome sequencing`.\n",
+      "sample_values": [
+        "Datasharingplan",
+        "Copynumbervariants",
+        "Metadata",
+        "Annotatedgermlinevariants",
+        "Image"
+      ]
+    },
+    {
+      "name": "dataSubtype",
+      "description": "Further qualification of dataType, which may be used to indicate the state of processing of the data, aggregation of the data, or presence of metadata.",
+      "sample_values": [
+        "Derived",
+        "Normalized",
+        "Raw",
+        "Synthetic",
+        "Processed"
+      ]
+    },
+    {
+      "name": "genomicReference",
+      "description": "Version of genome reference used for alignment in processing workflow"
+    },
+    {
+      "name": "organ",
+      "description": "A unique macroscopic (gross) anatomic structure that performs specific functions. It is composed of various tissues. An organ is part of an anatomic system or a body region.",
+      "sample_values": [
+        "Bonemarrow",
+        "Liver",
+        "Kidney",
+        "Pancreas",
+        "Lung"
+      ]
+    },
+    {
+      "name": "isXenograft",
+      "description": "Whether or not sample source is a xenograft (Yes; No)",
+      "sample_values": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "drugScreenType",
+      "description": "String describing general class of drug screen",
+      "sample_values": [
+        "Combinationlibraryscreen",
+        "Combinationscreen",
+        "Singlemolecule",
+        "Smallmoleculelibraryscreen"
+      ]
+    },
+    {
+      "name": "experimentalCondition",
+      "description": "A free-text description of the experimental condition (e.g. 5 mM doxorubicin)."
+    },
+    {
+      "name": "modelSystemName",
+      "description": "  HEK293 (cell line), Minnesota5 (swine strain), DXL (poultry strain), RB51 (vaccine strain of Brucella abortus)",
+      "sample_values": [
+        "HEK293NF1-/-withR2550XmNf1cDNA",
+        "CNF98.4d",
+        "NCC-MPNST4-C1",
+        "CNF97.2a",
+        "CNF98.4c"
+      ]
+    },
+    {
+      "name": "libraryPrep",
+      "description": "The general strategy by which the library was prepared",
+      "sample_values": [
+        "LncRNAenrichment",
+        "MiRNAenrichment",
+        "PolyAselection",
+        "RRNAdepletion"
+      ]
+    },
+    {
+      "name": "tumorType",
+      "description": "The type of tumor that the biospecimen used to generate the data were collected from.",
+      "sample_values": [
+        "LocalizedNeurofibroma",
+        "Low-GradeGliomaNOS",
+        "Metastatic/recurrenttumor",
+        "PlexiformNeurofibroma",
+        "OpticPathwayGlioma"
+      ]
+    },
+    {
+      "name": "expressionUnit",
+      "description": "Measure used for transcript expression quantification",
+      "sample_values": [
+        "RPKM",
+        "Counts",
+        "NormalizedCounts",
+        "FPKM",
+        "TPM"
+      ]
+    },
+    {
+      "name": "readsMappedPercent",
+      "description": "Percent of mapped reads collected from samtools"
+    },
+    {
+      "name": "averageInsertSize",
+      "description": "Average insert size as reported by samtools"
+    },
+    {
+      "name": "compoundName",
+      "description": "//pubchem.ncbi.nlm.nih.gov/compound/10127622)"
+    },
+    {
+      "name": "runType",
+      "description": "Sequencing run type.",
+      "sample_values": [
+        "PairedEnd",
+        "SingleEnd"
+      ]
+    },
+    {
+      "name": "transplantationRecipientSpecies",
+      "description": "Species into which donor  was grown",
+      "sample_values": [
+        "Human",
+        "Mouse"
+      ]
+    },
+    {
+      "name": "cellType",
+      "description": "A cell type is a distinct morphological or functional form of cell.",
+      "sample_values": [
+        "Fibroblast",
+        "Astrocytes",
+        "Schwanncellprecursor",
+        "IPSC-derivedtelencephalicorganoids",
+        "NeuN-"
+      ]
+    },
+    {
+      "name": "modifiedBy",
+      "description": "Refers to a user who last modified the resource on the platform."
+    },
+    {
+      "name": "experimentalTimepoint",
+      "description": "The numeric value indicating the time elapsed from the beginning of the experiment at which the specimen was collected. Use in tandem with timePointUnit"
+    },
+    {
+      "name": "assay",
+      "description": "The technology used to generate the data in this file.",
+      "sample_values": [
+        "Nextgenerationtargetedsequencing",
+        "Positronemissiontomography",
+        "Metabolicscreening",
+        "Skindex-16",
+        "Spatialfrequencydomainimaging"
+      ]
+    },
+    {
+      "name": "averageReadLength",
+      "description": "Average read length collected from samtools"
+    },
+    {
+      "name": "platform",
+      "description": "A sequencing platform, microscope, spectroscope/plate reader, or other platform for collecting data.",
+      "sample_values": [
+        "IlluminaHiSeq2500",
+        "PhilipsAchieva3T",
+        "GESignaGenesis1.5T",
+        "BDFACSCalibur",
+        "AffymetrixGenome-WideHumanSNP5.0Array"
+      ]
+    }
+  ]
+}

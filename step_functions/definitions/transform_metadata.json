@@ -1,0 +1,107 @@
+{
+  "Comment": "Table translation workflow - transforms tables to match target schemas using AI",
+  "StartAt": "CreateColumnTranslationTasks",
+  "States": {
+    "CreateColumnTranslationTasks": {
+      "Type": "Task",
+      "Resource": "arn:aws:states:::lambda:invoke",
+      "OutputPath": "$.Payload",
+      "Parameters": {
+        "FunctionName": "${create_col_translation_tasks_lambda_arn}",
+        "Payload.$": "$"
+      },
+      "Retry": [
+        {
+          "ErrorEquals": [
+            "Lambda.ServiceException",
+            "Lambda.AWSLambdaException",
+            "Lambda.SdkClientException",
+            "Lambda.TooManyRequestsException"
+          ],
+          "IntervalSeconds": 1,
+          "MaxAttempts": 3,
+          "BackoffRate": 2,
+          "JitterStrategy": "FULL"
+        }
+      ],
+      "Comment": "Given a target schema, create a task file in S3 for each column in that schema",
+      "Next": "ColumnTranslationMap"
+    },
+    "ColumnTranslationMap": {
+      "Type": "Map",
+      "ItemProcessor": {
+        "ProcessorConfig": {
+          "Mode": "DISTRIBUTED",
+          "ExecutionType": "STANDARD"
+        },
+        "StartAt": "TranslateColumn",
+        "States": {
+          "TranslateColumn": {
+            "Type": "Task",
+            "Resource": "arn:aws:states:::lambda:invoke",
+            "OutputPath": "$.Payload",
+            "Parameters": {
+              "FunctionName": "${translate_col_lambda_arn}",
+              "Payload.$": "$"
+            },
+            "Retry": [
+              {
+                "ErrorEquals": [
+                  "Lambda.ServiceException",
+                  "Lambda.AWSLambdaException",
+                  "Lambda.SdkClientException",
+                  "Lambda.TooManyRequestsException"
+                ],
+                "IntervalSeconds": 1,
+                "MaxAttempts": 3,
+                "BackoffRate": 2,
+                "JitterStrategy": "FULL"
+              }
+            ],
+            "Comment": "Given a few sample rows and a target column description, write a SQL operation for creating that column out of the existing table columns",
+            "End": true
+          }
+        }
+      },
+      "Label": "ColumnTranslationMap",
+      "MaxConcurrency": 1,
+      "ItemReader": {
+        "Resource": "arn:aws:states:::s3:listObjectsV2",
+        "Parameters": {
+          "Bucket": "${s3_bucket_name}",
+          "Prefix.$": "$.translation_tasks_prefix"
+        }
+      },
+      "ItemBatcher": {
+        "MaxItemsPerBatch": 1
+      },
+      "Comment": "Map across the column translation task files in S3",
+      "Next": "ConsolidateColumns"
+    },
+    "ConsolidateColumns": {
+      "Type": "Task",
+      "Resource": "arn:aws:states:::lambda:invoke",
+      "OutputPath": "$.Payload",
+      "Parameters": {
+        "FunctionName": "${consolidate_cols_lambda_arn}",
+        "Payload.$": "$"
+      },
+      "Retry": [
+        {
+          "ErrorEquals": [
+            "Lambda.ServiceException",
+            "Lambda.AWSLambdaException",
+            "Lambda.SdkClientException",
+            "Lambda.TooManyRequestsException"
+          ],
+          "IntervalSeconds": 1,
+          "MaxAttempts": 3,
+          "BackoffRate": 2,
+          "JitterStrategy": "FULL"
+        }
+      ],
+      "End": true,
+      "Comment": "Take the SQL operations generated to produce each target column and apply them to the original table to generate the target table"
+    }
+  }
+}

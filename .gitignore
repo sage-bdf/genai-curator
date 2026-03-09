@@ -1,0 +1,27 @@
+__pycache__
+.DS_Store
+.ipynb_checkpoints
+.python-version
+.pytest_cache
+.ruff_cache
+.mypy_cache
+.vscode
+*.egg-info
+
+*.key
+*.pem
+*.xml
+.tox
+.venv
+**/node_modules
+.env
+*.code-workspace
+*repomix*
+
+# Crash log files
+crash.log
+crash.*.log
+
+# Ignore plan output files
+*tmp*
+lambda-images.json

@@ -1,0 +1,87 @@
+name,studyId,targetCaptureKitID,aliquotID,specimenID,individualID,parentSpecimenID,transplantationType,compoundDoseUnit,isStranded,readPairOrientation,accessType,nf1Genotype,diagnosis,targetDepth,age,ageUnit,isCellLine,libraryPreparationMethod,averageBaseQuality,sex,genePerturbationType,compoundDose,readDepth,readLength,readStrandOrigin,progressReportNumber,specimenPreparationMethod,isMultiIndividual,libraryStrand,readPair,initiative,genePerturbationTechnology,comments,fileFormat,nf2Genotype,Component,species,fundingAgency,nucleicAcidSource,channel,genePerturbed,resourceType,dissociationMethod,readsDuplicatedPercent,isMultiSpecimen,studyName,isPrimaryCell,workflow,workflowLink,pairsOnDifferentChr,transplantationRecipientTissue,individualIdSource,totalReads,dataType,dataSubtype,genomicReference,organ,isXenograft,drugScreenType,experimentalCondition,modelSystemName,libraryPrep,tumorType,expressionUnit,readsMappedPercent,averageInsertSize,compoundName,runType,transplantationRecipientSpecies,cellType,modifiedBy,experimentalTimepoint,assay,averageReadLength,platform
+201194000082_R02C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201465960035_R06C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201194000077_R07C01_Red.idat,s00401-021-02276-5,,,,,,,,,,ControlledAccess,+/-,Neurofibromatosistype1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201194000082_R01C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201194000077_R02C01_Grn.idat,s00401-021-02276-5,,,,,,,,,,ControlledAccess,+/-,Neurofibromatosistype1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201465960034_R03C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201194000077_R04C01_Grn.idat,s00401-021-02276-5,,,,,,,,,,ControlledAccess,+/-,Neurofibromatosistype1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201876940186_R06C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201194000077_R05C01_Grn.idat,s00401-021-02276-5,,,,,,,,,,ControlledAccess,+/-,Neurofibromatosistype1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201194000076_R08C01_Grn.idat,s00401-021-02276-5,,,,,,,,,,ControlledAccess,+/-,Neurofibromatosistype1,,,,,,,,,,,,,,,No,,,,,DNA methylation array data from Illumina HumanMethylation450 or EPIC BeadChip used for molecular classification of NF1-associated low-grade gliomas,idat,Unknown,,Musmusculus,,Bulkcell,Cy3,NF1,Result,,,No,Integrated molecular and clinical analysis of low-grade gliomas in children with neurofibromatosis type 1 (NF1),,,,,,,,Metadata,Raw,,Brain,No,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201194000082_R04C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201194000077_R02C01_Red.idat,s00401-021-02276-5,,,,,,,,,,ControlledAccess,+/-,Neurofibromatosistype1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+8622007058_R06C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201465960035_R03C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201465960034_R02C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201465960035_R07C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201876940186_R07C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201876940186_R06C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201465960035_R05C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201194000082_R03C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201465960035_R03C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201533490046_R08C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7310440067_R03C02_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201194000077_R01C01_Grn.idat,s00401-021-02276-5,,,,,,,,,,ControlledAccess,+/-,Neurofibromatosistype1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201465960034_R03C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201465960033_R07C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201465960034_R02C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6752625089_R01C02_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201194000077_R01C01_Red.idat,s00401-021-02276-5,,,,,,,,,,ControlledAccess,+/-,Neurofibromatosistype1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201465960034_R04C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201194000076_R08C01_Red.idat,s00401-021-02276-5,,,,,,,,,,ControlledAccess,+/-,Neurofibromatosistype1,,,,,,,,,,,,,,,No,,,,,DNA methylation array data from Illumina HumanMethylation450 or EPIC BeadChip used for molecular classification of NF1-associated low-grade gliomas,idat,Unknown,,Musmusculus,,Bulkcell,Cy5,NF1,Result,,,No,Integrated molecular and clinical analysis of low-grade gliomas in children with neurofibromatosis type 1 (NF1),,,,,,,,Metadata,Raw,,Brain,No,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201465960034_R07C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201194000082_R01C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201194000082_R08C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201465960035_R04C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201465960035_R06C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8622007022_R01C02_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201465960034_R04C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201194000082_R05C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201465960035_R04C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201194000077_R08C01_Red.idat,s00401-021-02276-5,,,,,,,,,,ControlledAccess,+/-,Neurofibromatosistype1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201465960034_R08C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7310440067_R03C02_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201465960034_R06C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6752625089_R01C02_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201465960034_R01C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201465960035_R02C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201465960035_R07C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201194000076_R07C01_Grn.idat,s00401-021-02276-5,,,,,,,,,,ControlledAccess,+/-,Neurofibromatosistype1,,,,,,,,,,,,,,,No,,,,,DNA methylation array data from Illumina HumanMethylation450 or EPIC BeadChip used for molecular classification of NF1-associated low-grade gliomas,idat,Unknown,,Musmusculus,,Bulkcell,Cy3,NF1,Result,,,No,Integrated molecular and clinical analysis of low-grade gliomas in children with neurofibromatosis type 1 (NF1),,,,,,,,Metadata,Raw,,Brain,No,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201194000082_R02C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201465960033_R07C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201194000077_R06C01_Grn.idat,s00401-021-02276-5,,,,,,,,,,ControlledAccess,+/-,Neurofibromatosistype1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201194000077_R03C01_Grn.idat,s00401-021-02276-5,,,,,,,,,,ControlledAccess,+/-,Neurofibromatosistype1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201194000077_R08C01_Grn.idat,s00401-021-02276-5,,,,,,,,,,ControlledAccess,+/-,Neurofibromatosistype1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201194000082_R05C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201194000077_R07C01_Grn.idat,s00401-021-02276-5,,,,,,,,,,ControlledAccess,+/-,Neurofibromatosistype1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201194000077_R06C01_Red.idat,s00401-021-02276-5,,,,,,,,,,ControlledAccess,+/-,Neurofibromatosistype1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201194000082_R08C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201194000082_R07C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201194000077_R04C01_Red.idat,s00401-021-02276-5,,,,,,,,,,ControlledAccess,+/-,Neurofibromatosistype1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201465960034_R01C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201465960035_R05C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3998952004_R04C02_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201465960033_R08C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+3998952004_R03C02_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3998952004_R04C02_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201465960034_R08C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201194000076_R07C01_Red.idat,s00401-021-02276-5,,,,,,,,,,ControlledAccess,+/-,Neurofibromatosistype1,,,,,,,,,,,,,,,No,,,,,DNA methylation array data from Illumina HumanMethylation450 or EPIC BeadChip used for molecular classification of NF1-associated low-grade gliomas,idat,Unknown,,Musmusculus,,Bulkcell,Cy5,NF1,Result,,,No,Integrated molecular and clinical analysis of low-grade gliomas in children with neurofibromatosis type 1 (NF1),,,,,,,,Metadata,Raw,,Brain,No,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201465960034_R07C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201465960035_R01C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201194000082_R03C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201465960035_R01C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201876940186_R07C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201194000082_R07C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201533490046_R08C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3998952004_R03C02_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201465960035_R02C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8622007022_R01C02_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201465960034_R06C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201465960033_R08C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201465960034_R05C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201194000077_R03C01_Red.idat,s00401-021-02276-5,,,,,,,,,,ControlledAccess,+/-,Neurofibromatosistype1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201194000077_R05C01_Red.idat,s00401-021-02276-5,,,,,,,,,,ControlledAccess,+/-,Neurofibromatosistype1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+201194000082_R04C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DNA methylation array,,Illumina HumanMethylation450 BeadChip
+8622007058_R06C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201465960034_R05C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

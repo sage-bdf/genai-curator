@@ -1,0 +1,11 @@
+first_name,last_name,email_address,phone_number,department,hire_date
+John,Doe,john.doe@email.com,555-1234,Engineering,2023-01-15
+Jane,Smith,jane.smith@email.com,555-5678,Marketing,2023-02-20
+Bob,Johnson,bob.johnson@email.com,555-9012,Sales,2023-03-10
+Alice,Brown,alice.brown@email.com,555-3456,Engineering,2023-04-05
+Charlie,Wilson,charlie.wilson@email.com,555-7890,HR,2023-05-12
+Diana,Davis,diana.davis@email.com,555-2468,Marketing,2023-06-18
+Eve,Miller,eve.miller@email.com,555-1357,Sales,2023-07-22
+Frank,Garcia,frank.garcia@email.com,555-8642,Engineering,2023-08-30
+Grace,Lee,grace.lee@email.com,555-9753,HR,2023-09-14
+Henry,Taylor,henry.taylor@email.com,555-4681,Marketing,2023-10-08

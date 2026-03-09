@@ -1,0 +1,261 @@
+{
+  "Comment": "Workflow for extracting metadata from documents with simplified parameters",
+  "StartAt": "CheckFilenamesExist",
+  "States": {
+    "CheckFilenamesExist": {
+      "Type": "Choice",
+      "Choices": [
+        {
+          "Variable": "$.filenames",
+          "IsPresent": true,
+          "Next": "InvokeDataAutomationAsync"
+        }
+      ],
+      "Default": "AddEmptyFilenameList"
+    },
+    "AddEmptyFilenameList": {
+      "Type": "Pass",
+      "Parameters": {
+        "bucket.$": "$.bucket",
+        "document_key.$": "$.document_key",
+        "schema_key.$": "$.schema_key",
+        "output_prefix.$": "$.output_prefix",
+        "filenames": []
+      },
+      "Next": "InvokeDataAutomationAsync"
+    },
+    "InvokeDataAutomationAsync": {
+      "Type": "Task",
+      "Parameters": {
+        "DataAutomationProfileArn": "arn:aws:bedrock:<REGION>:<ACCOUNT_ID>:data-automation-profile/us.data-automation-v1",
+        "DataAutomationConfiguration": {
+          "DataAutomationProjectArn": "${bedrock_data_automation_project_arn}"
+        },
+        "InputConfiguration": {
+          "S3Uri.$": "States.Format('s3://{}/{}', $.bucket, $.document_key)"
+        },
+        "OutputConfiguration": {
+          "S3Uri.$": "States.Format('s3://{}/{}/bda', $.bucket, $.output_prefix)"
+        }
+      },
+      "Resource": "arn:aws:states:::aws-sdk:bedrockdataautomationruntime:invokeDataAutomationAsync",
+      "Comment": "Invoke Bedrock Data Automation",
+      "ResultPath": "$.invocationResult",
+      "Retry": [
+        {
+          "ErrorEquals": [
+            "BedrockDataAutomationRuntime.ServiceQuotaExceededException"
+          ],
+          "IntervalSeconds": 5,
+          "MaxAttempts": 10,
+          "BackoffRate": 2,
+          "JitterStrategy": "FULL"
+        },
+        {
+          "ErrorEquals": ["States.TaskFailed"],
+          "IntervalSeconds": 3,
+          "MaxAttempts": 5,
+          "BackoffRate": 2
+        }
+      ],
+      "Next": "Wait 5 Seconds",
+      "Catch": [
+        {
+          "ErrorEquals": ["States.ALL"],
+          "ResultPath": "$.error",
+          "Next": "Fail"
+        }
+      ]
+    },
+    "Wait 5 Seconds": {
+      "Type": "Wait",
+      "Next": "GetDataAutomationStatus",
+      "Seconds": 5
+    },
+    "GetDataAutomationStatus": {
+      "Type": "Task",
+      "Parameters": {
+        "InvocationArn.$": "$.invocationResult.InvocationArn"
+      },
+      "Resource": "arn:aws:states:::aws-sdk:bedrockdataautomationruntime:getDataAutomationStatus",
+      "ResultPath": "$.statusResult",
+      "Next": "Job Complete?"
+    },
+    "Job Complete?": {
+      "Type": "Choice",
+      "Choices": [
+        {
+          "Variable": "$.statusResult.Status",
+          "StringEquals": "Success",
+          "Next": "ChunkTask"
+        },
+        {
+          "Variable": "$.statusResult.Status",
+          "StringEquals": "Created",
+          "Next": "Wait 5 Seconds"
+        },
+        {
+          "Variable": "$.statusResult.Status",
+          "StringEquals": "InProgress",
+          "Next": "Wait 5 Seconds"
+        }
+      ],
+      "Default": "Fail"
+    },
+    "ChunkTask": {
+      "Type": "Task",
+      "Comment": "Chunk the document by page, filenames, and metadata fields",
+      "Resource": "arn:aws:states:::lambda:invoke",
+      "Parameters": {
+        "FunctionName": "${chunk_task_lambda_arn}",
+        "Payload": {
+          "bucket.$": "$.bucket",
+          "jobMetadataUri.$": "$.statusResult.OutputConfiguration.S3Uri",
+          "schemaKey.$": "$.schema_key",
+          "characterLimit": 300000,
+          "entityFilenames.$": "$.filenames",
+          "outputPrefix.$": "$.output_prefix"
+        }
+      },
+      "Retry": [
+        {
+          "ErrorEquals": [
+            "Lambda.ServiceException",
+            "Lambda.AWSLambdaException",
+            "Lambda.SdkClientException",
+            "Lambda.TooManyRequestsException"
+          ],
+          "IntervalSeconds": 1,
+          "MaxAttempts": 3,
+          "BackoffRate": 2,
+          "JitterStrategy": "FULL"
+        }
+      ],
+      "ResultPath": "$.chunkResult",
+      "Next": "ProcessDocumentChunks",
+      "Catch": [
+        {
+          "ErrorEquals": ["States.ALL"],
+          "ResultPath": "$.error",
+          "Next": "Fail"
+        }
+      ]
+    },
+    "ProcessDocumentChunks": {
+      "Type": "Map",
+      "ItemsPath": "$.chunkResult.Payload.chunks",
+      "MaxConcurrency": 10,
+      "Parameters": {
+        "chunk.$": "$$.Map.Item.Value"
+      },
+      "ItemProcessor": {
+        "ProcessorConfig": {
+          "Mode": "DISTRIBUTED",
+          "ExecutionType": "STANDARD"
+        },
+        "StartAt": "CreateTableFromChunk",
+        "States": {
+          "CreateTableFromChunk": {
+            "Type": "Task",
+            "Comment": "Generate table rows from a document chunk",
+            "Resource": "arn:aws:states:::lambda:invoke",
+            "Parameters": {
+              "FunctionName": "${create_table_lambda_arn}",
+              "Payload": {
+                "bucket.$": "$.chunk.bucket",
+                "schemaKey.$": "$.chunk.schemaKey",
+                "markdownKey.$": "$.chunk.markdownKey",
+                "chunkId.$": "$.chunk.chunkId",
+                "docId.$": "$.chunk.docId",
+                "workflow.$": "$.chunk.workflow",
+                "entityFilenames.$": "$.chunk.entityFilenames",
+                "fields.$": "$.chunk.fields",
+                "fieldChunkId.$": "$.chunk.fieldChunkId",
+                "outputPrefix.$": "$.chunk.outputPrefix"
+              }
+            },
+            "OutputPath": "$.Payload",
+            "Retry": [
+              {
+                "ErrorEquals": ["ThrottlingException"],
+                "IntervalSeconds": 5,
+                "MaxAttempts": 10,
+                "BackoffRate": 2.5,
+                "JitterStrategy": "FULL"
+              },
+              {
+                "ErrorEquals": ["States.TaskFailed"],
+                "IntervalSeconds": 3,
+                "MaxAttempts": 6,
+                "BackoffRate": 2.0,
+                "JitterStrategy": "FULL"
+              },
+              {
+                "ErrorEquals": [
+                  "Lambda.ServiceException",
+                  "Lambda.AWSLambdaException",
+                  "Lambda.SdkClientException"
+                ],
+                "IntervalSeconds": 2,
+                "MaxAttempts": 6,
+                "BackoffRate": 2
+              }
+            ],
+            "End": true
+          }
+        }
+      },
+      "ResultPath": "$.processedChunks",
+      "Next": "ConsolidateResults",
+      "Catch": [
+        {
+          "ErrorEquals": ["States.ALL"],
+          "ResultPath": "$.error",
+          "Next": "Fail"
+        }
+      ]
+    },
+    "ConsolidateResults": {
+      "Type": "Task",
+      "Comment": "Consolidate all the individual JSON results into a single CSV",
+      "Resource": "arn:aws:states:::lambda:invoke",
+      "Parameters": {
+        "FunctionName": "${consolidate_results_lambda_arn}",
+        "Payload": {
+          "bucket.$": "$.bucket",
+          "output_prefix.$": "$.output_prefix",
+          "chunks.$": "$.processedChunks"
+        }
+      },
+      "Retry": [
+        {
+          "ErrorEquals": [
+            "Lambda.ServiceException",
+            "Lambda.AWSLambdaException",
+            "Lambda.SdkClientException",
+            "Lambda.TooManyRequestsException"
+          ],
+          "IntervalSeconds": 1,
+          "MaxAttempts": 3,
+          "BackoffRate": 2,
+          "JitterStrategy": "FULL"
+        }
+      ],
+      "OutputPath": "$.Payload",
+      "Next": "Success",
+      "Catch": [
+        {
+          "ErrorEquals": ["States.ALL"],
+          "ResultPath": "$.error",
+          "Next": "Fail"
+        }
+      ]
+    },
+    "Fail": {
+      "Type": "Fail"
+    },
+    "Success": {
+      "Type": "Succeed"
+    }
+  }
+}

@@ -1,0 +1,183 @@
+name,studyId,targetCaptureKitID,aliquotID,specimenID,individualID,parentSpecimenID,transplantationType,compoundDoseUnit,isStranded,readPairOrientation,accessType,nf1Genotype,diagnosis,targetDepth,age,ageUnit,isCellLine,libraryPreparationMethod,averageBaseQuality,sex,genePerturbationType,compoundDose,readDepth,readLength,readStrandOrigin,progressReportNumber,specimenPreparationMethod,isMultiIndividual,libraryStrand,readPair,initiative,genePerturbationTechnology,comments,fileFormat,nf2Genotype,Component,species,fundingAgency,nucleicAcidSource,channel,genePerturbed,resourceType,dissociationMethod,readsDuplicatedPercent,isMultiSpecimen,studyName,isPrimaryCell,workflow,workflowLink,pairsOnDifferentChr,transplantationRecipientTissue,individualIdSource,totalReads,dataType,dataSubtype,genomicReference,organ,isXenograft,drugScreenType,experimentalCondition,modelSystemName,libraryPrep,tumorType,expressionUnit,readsMappedPercent,averageInsertSize,compoundName,runType,transplantationRecipientSpecies,cellType,modifiedBy,experimentalTimepoint,assay,averageReadLength,platform
+201503590038_R03C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503470133_R03C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201492570198_R07C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,Result,,,No,,,,,,,,,Metadata,Raw,,,,,,,,Schwannomatosis,,,,,,,,,,DNAMethylationProfiling,,IlluminaInfiniumHumanMethylationEPIC
+201532190183_R01C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201492570233_R07C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,Schwannomatosis,,,,,,,,,,DNAMethylationProfiling,,IlluminaInfiniumHumanMethylationEPIC
+201532190183_R02C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201492570233_R06C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,Schwannomatosis,,,,,,,,,,DNAMethylationProfiling,,IlluminaInfiniumHumanMethylationEPIC
+201506820085_R02C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820071_R06C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503590047_R01C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202259490164_R08C01_Grn.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy3,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201492570198_R05C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,Result,,,No,,,,,,,,,Metadata,Raw,,,,,,,,Schwannomatosis,,,,,,,,,,DNAMethylationProfiling,,IlluminaInfiniumHumanMethylationEPIC
+202262730105_R05C01_Grn.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy3,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201506820085_R03C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820037_R05C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820029_R05C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820037_R02C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202262730105_R08C01_Red.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy5,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201503470133_R04C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820037_R06C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503470133_R06C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201532190182_R07C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201532190216_R06C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503590038_R04C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820037_R02C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503590047_R05C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820029_R06C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201532190216_R01C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503590047_R07C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820029_R03C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503590047_R07C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503590053_R02C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820029_R08C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202262730105_R02C01_Red.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy5,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201506820085_R01C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503590047_R01C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820029_R07C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201492570198_R07C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,Result,,,No,,,,,,,,,Metadata,Raw,,,,,,,,Schwannomatosis,,,,,,,,,,DNAMethylationProfiling,,IlluminaInfiniumHumanMethylationEPIC
+201506820085_R01C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201532190124_R01C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820037_R07C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202259490164_R02C01_Grn.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy3,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201503590038_R05C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201532190216_R04C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202262730105_R03C01_Red.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy5,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+202259490164_R06C01_Red.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy5,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201492570198_R08C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,Schwannomatosis,,,,,,,,,,DNAMethylationProfiling,,IlluminaInfiniumHumanMethylationEPIC
+201532190216_R06C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820037_R05C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201532190124_R02C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201532190216_R08C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820071_R08C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503470133_R07C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201532190216_R01C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820071_R01C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201532190182_R08C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201492570233_R03C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,Schwannomatosis,,,,,,,,,,DNAMethylationProfiling,,IlluminaInfiniumHumanMethylationEPIC
+201503590038_R02C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820071_R03C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503470133_R03C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202259490164_R04C01_Grn.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy3,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201532190216_R08C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820029_R01C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820071_R03C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201492570198_R04C01_Grn.idat,Schwannomatosis Epigenomic Study,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,Result,,,No,,,,,,,,,Metadata,Raw,,,,,,,,Schwannomatosis,,,,,,,,,,DNAMethylationProfiling,,IlluminaInfiniumHumanMethylationEPIC
+201503470133_R05C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503590038_R08C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820037_R06C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820071_R02C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202262730105_R07C01_Grn.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy3,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201506820085_R04C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201492570233_R07C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,Schwannomatosis,,,,,,,,,,DNAMethylationProfiling,,IlluminaInfiniumHumanMethylationEPIC
+201503470133_R06C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201492570198_R05C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,Result,,,No,,,,,,,,,Metadata,Raw,,,,,,,,Schwannomatosis,,,,,,,,,,DNAMethylationProfiling,,IlluminaInfiniumHumanMethylationEPIC
+201506820071_R04C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820085_R08C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202262730105_R06C01_Grn.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy3,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201532190124_R01C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503590038_R07C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820029_R08C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202259490164_R05C01_Grn.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy3,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201503590038_R01C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202259490164_R07C01_Grn.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy3,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201530950088_R08C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503590047_R02C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201492570198_R04C01_Red.idat,Schwannomatosis Epigenomic Study,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,Result,,,No,,,,,,,,,Metadata,Raw,,,,,,,,Schwannomatosis,,,,,,,,,,DNAMethylationProfiling,,IlluminaInfiniumHumanMethylationEPIC
+201536580020_R02C01_Red.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy5,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201492570233_R06C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,Schwannomatosis,,,,,,,,,,DNAMethylationProfiling,,IlluminaInfiniumHumanMethylationEPIC
+201506820029_R03C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202259490164_R04C01_Red.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy5,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201503590047_R04C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820029_R07C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202259490164_R02C01_Red.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy5,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201492570198_R08C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,Schwannomatosis,,,,,,,,,,DNAMethylationProfiling,,IlluminaInfiniumHumanMethylationEPIC
+202259490164_R07C01_Red.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy5,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201532190216_R07C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201532190216_R07C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201530950088_R08C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503590038_R04C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503590038_R01C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503470133_R04C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820037_R01C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201532190183_R02C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202262730105_R06C01_Red.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy5,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201506820037_R01C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503590047_R06C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820029_R02C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202259490164_R03C01_Red.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy5,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+202259490164_R03C01_Grn.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy3,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201506820029_R06C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201532190124_R06C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201536580020_R02C01_Grn.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy3,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201503470133_R02C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503590038_R08C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201532190124_R06C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201532190183_R01C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820029_R05C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503590038_R07C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820029_R02C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820071_R04C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820071_R07C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201532190124_R05C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201532190216_R02C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820071_R06C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820029_R01C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202262730105_R08C01_Grn.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy3,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201506820085_R08C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201492570233_R03C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,Schwannomatosis,,,,,,,,,,DNAMethylationProfiling,,IlluminaInfiniumHumanMethylationEPIC
+201503590047_R05C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201532190216_R04C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202259490164_R01C01_Red.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy5,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201532190124_R07C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201532190124_R05C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820037_R07C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503470133_R08C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503590047_R06C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202259490164_R01C01_Grn.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy3,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201492570198_R06C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,Result,,,No,,,,,,,,,Metadata,Raw,,,,,,,,Schwannomatosis,,,,,,,,,,DNAMethylationProfiling,,IlluminaInfiniumHumanMethylationEPIC
+201506820071_R05C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202262730105_R05C01_Red.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy5,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201503590038_R05C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202262730105_R07C01_Red.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy5,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201503590047_R02C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201532190216_R03C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202262730105_R02C01_Grn.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy3,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201532190216_R03C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202262730105_R04C01_Red.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy5,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201506820085_R04C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201492570233_R04C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,Schwannomatosis,,,,,,,,,,DNAMethylationProfiling,,IlluminaInfiniumHumanMethylationEPIC
+201506820071_R07C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202259490164_R05C01_Red.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy5,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201532190216_R02C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503590038_R02C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201492570198_R03C01_Red.idat,Schwannomatosis Epigenomic Study,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,Result,,,No,,,,,,,,,Metadata,Raw,,,,,,,,Schwannomatosis,,,,,,,,,,DNAMethylationProfiling,,IlluminaInfiniumHumanMethylationEPIC
+201506820085_R02C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820029_R04C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503470133_R05C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201492570233_R04C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,Schwannomatosis,,,,,,,,,,DNAMethylationProfiling,,IlluminaInfiniumHumanMethylationEPIC
+202262730105_R03C01_Grn.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy3,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201532190182_R07C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503590053_R02C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202262730105_R04C01_Grn.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy3,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201506820071_R08C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503470133_R07C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201532190124_R07C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820029_R04C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201532190124_R02C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201532190182_R08C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201536580020_R01C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820071_R05C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503470133_R08C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201492570198_R03C01_Grn.idat,Schwannomatosis Epigenomic Study,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,Result,,,No,,,,,,,,,Metadata,Raw,,,,,,,,Schwannomatosis,,,,,,,,,,DNAMethylationProfiling,,IlluminaInfiniumHumanMethylationEPIC
+201503470133_R02C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202259490164_R06C01_Grn.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy3,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201492570198_R06C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,Result,,,No,,,,,,,,,Metadata,Raw,,,,,,,,Schwannomatosis,,,,,,,,,,DNAMethylationProfiling,,IlluminaInfiniumHumanMethylationEPIC
+201506820071_R02C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820085_R03C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201506820071_R01C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202259490164_R08C01_Red.idat,Mansouri_2021_SWNTS_Methylome,,,,,,,,,,ControlledAccess,,,,,,,,,,,,,,,,,,,,,,,Dat,,DNA Methylation,Musmusculus,,,Cy5,,Result,,,No,,,DNA methylation profiling,,,,,,Genomicvariation,Raw,,,,,,,,,,,,,,,,,,DNA methylation profiling,,Illumina Infinium HumanMethylationEPIC
+201536580020_R01C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503590038_R03C01_Red.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201503590047_R04C01_Grn.idat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IDAT,,,Homo sapiens,,,Grn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

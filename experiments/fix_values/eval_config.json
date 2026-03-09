@@ -1,0 +1,8 @@
+{
+  "schema_path": "/home/ubuntu/projects/data/pz-nf-testing-data/schema/NF.jsonid",
+  "input_path": "/home/ubuntu/projects/data/synthetic_error",
+  "ground_truth_path": "/home/ubuntu/projects/data/pz-nf-testing-data/ground_truth",
+  "output_path": "/home/ubuntu/projects/evaluation_results/results.json",
+  "pattern": "*_with_errors.csv",
+  "log_level": "INFO"
+}

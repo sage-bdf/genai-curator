@@ -1,0 +1,322 @@
+
+=== Validation Report ===
+
+Total files processed: 40
+Files with validation errors: 2
+
+Detailed Results:
+----------------
+
+File: nf_1.csv
+  Total rows: 8
+  No validation errors found
+
+File: nf_10.csv
+  Total rows: 24
+  No validation errors found
+
+File: nf_11.csv
+  Total rows: 18
+  No validation errors found
+
+File: nf_12.csv
+  Total rows: 22
+  No validation errors found
+
+File: nf_13.csv
+  Total rows: 57
+  No validation errors found
+
+File: nf_14.csv
+  Total rows: 230
+  No validation errors found
+
+File: nf_15.csv
+  Total rows: 192
+  No validation errors found
+
+File: nf_16.csv
+  Total rows: 182
+  No validation errors found
+
+File: nf_17.csv
+  Total rows: 53
+  No validation errors found
+
+File: nf_18.csv
+  Total rows: 50
+  No validation errors found
+
+File: nf_19.csv
+  Total rows: 66
+  No validation errors found
+
+File: nf_2.csv
+  Total rows: 54
+  No validation errors found
+
+File: nf_20.csv
+  Total rows: 154
+  No validation errors found
+
+File: nf_21.csv
+  Total rows: 5
+  No validation errors found
+
+File: nf_22.csv
+  Total rows: 64
+  No validation errors found
+
+File: nf_23.csv
+  Total rows: 8
+  No validation errors found
+
+File: nf_24.csv
+  Total rows: 45
+  No validation errors found
+
+File: nf_25.csv
+  Total rows: 65
+  No validation errors found
+
+File: nf_26.csv
+  Total rows: 122
+  No validation errors found
+
+File: nf_27.csv
+  Total rows: 14
+  No validation errors found
+
+File: nf_28.csv
+  Total rows: 105
+  No validation errors found
+
+File: nf_29.csv
+  Total rows: 55
+  No validation errors found
+
+File: nf_3.csv
+  Total rows: 44
+  No validation errors found
+
+File: nf_30.csv
+  Total rows: 6
+  No validation errors found
+
+File: nf_31.csv
+  Total rows: 204
+  No validation errors found
+
+File: nf_32.csv
+  Total rows: 4
+  No validation errors found
+
+File: nf_33.csv
+  Total rows: 16
+  No validation errors found
+
+File: nf_34.csv
+  Total rows: 12
+  No validation errors found
+
+File: nf_35.csv
+  Total rows: 16
+  No validation errors found
+
+File: nf_36.csv
+  Total rows: 124
+  No validation errors found
+
+File: nf_37.csv
+  Total rows: 48
+  No validation errors found
+
+File: nf_38.csv
+  Total rows: 55
+  No validation errors found
+
+File: nf_39.csv
+  Total rows: 285
+  Invalid entries found:
+    FileFormat:
+      Row 51: 'SCN' (not in valid options)
+      Row 52: 'SCN' (not in valid options)
+      Row 53: 'SCN' (not in valid options)
+      Row 64: 'SCN' (not in valid options)
+      Row 65: 'SCN' (not in valid options)
+      Row 66: 'SCN' (not in valid options)
+      Row 67: 'SCN' (not in valid options)
+      Row 68: 'SCN' (not in valid options)
+      Row 69: 'SCN' (not in valid options)
+      Row 70: 'SCN' (not in valid options)
+      Row 71: 'SCN' (not in valid options)
+      Row 72: 'SCN' (not in valid options)
+      Row 73: 'SCN' (not in valid options)
+      Row 74: 'SCN' (not in valid options)
+      Row 75: 'SCN' (not in valid options)
+      Row 76: 'SCN' (not in valid options)
+      Row 77: 'SCN' (not in valid options)
+      Row 130: 'SCN' (not in valid options)
+      Row 131: 'SCN' (not in valid options)
+      Row 133: 'SCN' (not in valid options)
+      Row 134: 'SCN' (not in valid options)
+      Row 135: 'SCN' (not in valid options)
+      Row 137: 'SCN' (not in valid options)
+      Row 138: 'SCN' (not in valid options)
+      Row 139: 'SCN' (not in valid options)
+      Row 140: 'SCN' (not in valid options)
+      Row 143: 'SCN' (not in valid options)
+      Row 144: 'SCN' (not in valid options)
+      Row 145: 'SCN' (not in valid options)
+      Row 146: 'SCN' (not in valid options)
+      Row 147: 'SCN' (not in valid options)
+      Row 149: 'SCN' (not in valid options)
+      Row 150: 'SCN' (not in valid options)
+      Row 152: 'SCN' (not in valid options)
+      Row 154: 'SCN' (not in valid options)
+      Row 155: 'SCN' (not in valid options)
+      Row 157: 'SCN' (not in valid options)
+      Row 158: 'SCN' (not in valid options)
+      Row 160: 'SCN' (not in valid options)
+      Row 161: 'SCN' (not in valid options)
+      Row 164: 'SCN' (not in valid options)
+      Row 165: 'SCN' (not in valid options)
+      Row 167: 'SCN' (not in valid options)
+      Row 169: 'SCN' (not in valid options)
+      Row 171: 'SCN' (not in valid options)
+      Row 173: 'SCN' (not in valid options)
+      Row 175: 'SCN' (not in valid options)
+      Row 177: 'SCN' (not in valid options)
+      Row 180: 'SCN' (not in valid options)
+      Row 181: 'SCN' (not in valid options)
+      Row 184: 'SCN' (not in valid options)
+      Row 185: 'SCN' (not in valid options)
+      Row 187: 'SCN' (not in valid options)
+      Row 189: 'SCN' (not in valid options)
+      Row 191: 'SCN' (not in valid options)
+      Row 192: 'SCN' (not in valid options)
+      Row 194: 'SCN' (not in valid options)
+      Row 197: 'SCN' (not in valid options)
+      Row 199: 'SCN' (not in valid options)
+      Row 200: 'SCN' (not in valid options)
+      Row 201: 'SCN' (not in valid options)
+      Row 203: 'SCN' (not in valid options)
+      Row 206: 'SCN' (not in valid options)
+      Row 208: 'SCN' (not in valid options)
+      Row 210: 'SCN' (not in valid options)
+      Row 212: 'SCN' (not in valid options)
+      Row 215: 'SCN' (not in valid options)
+      Row 217: 'SCN' (not in valid options)
+      Row 220: 'SCN' (not in valid options)
+      Row 222: 'SCN' (not in valid options)
+      Row 225: 'SCN' (not in valid options)
+      Row 227: 'SCN' (not in valid options)
+      Row 229: 'SCN' (not in valid options)
+      Row 231: 'SCN' (not in valid options)
+      Row 233: 'SCN' (not in valid options)
+      Row 234: 'SCN' (not in valid options)
+      Row 236: 'SCN' (not in valid options)
+      Row 238: 'SCN' (not in valid options)
+      Row 239: 'SCN' (not in valid options)
+      Row 240: 'SCN' (not in valid options)
+      Some valid options are: 7z, Ab1, Abf, Ai, Avi...
+
+File: nf_4.csv
+  Total rows: 86
+  No validation errors found
+
+File: nf_40.csv
+  Total rows: 570
+  Invalid entries found:
+    FileFormat:
+      Row 2: 'SCN' (not in valid options)
+      Row 73: 'SCN' (not in valid options)
+      Row 74: 'SCN' (not in valid options)
+      Row 75: 'SCN' (not in valid options)
+      Row 76: 'SCN' (not in valid options)
+      Row 77: 'SCN' (not in valid options)
+      Row 78: 'SCN' (not in valid options)
+      Row 80: 'SCN' (not in valid options)
+      Row 81: 'SCN' (not in valid options)
+      Row 83: 'SCN' (not in valid options)
+      Row 84: 'SCN' (not in valid options)
+      Row 86: 'SCN' (not in valid options)
+      Row 87: 'SCN' (not in valid options)
+      Row 89: 'SCN' (not in valid options)
+      Row 90: 'SCN' (not in valid options)
+      Row 91: 'SCN' (not in valid options)
+      Row 93: 'SCN' (not in valid options)
+      Row 95: 'SCN' (not in valid options)
+      Row 96: 'SCN' (not in valid options)
+      Row 98: 'SCN' (not in valid options)
+      Row 99: 'SCN' (not in valid options)
+      Row 101: 'SCN' (not in valid options)
+      Row 102: 'SCN' (not in valid options)
+      Row 103: 'SCN' (not in valid options)
+      Row 105: 'SCN' (not in valid options)
+      Row 107: 'SCN' (not in valid options)
+      Row 108: 'SCN' (not in valid options)
+      Row 110: 'SCN' (not in valid options)
+      Row 111: 'SCN' (not in valid options)
+      Row 113: 'SCN' (not in valid options)
+      Row 114: 'SCN' (not in valid options)
+      Row 116: 'SCN' (not in valid options)
+      Row 117: 'SCN' (not in valid options)
+      Row 119: 'SCN' (not in valid options)
+      Row 120: 'SCN' (not in valid options)
+      Row 122: 'SCN' (not in valid options)
+      Row 123: 'SCN' (not in valid options)
+      Row 125: 'SCN' (not in valid options)
+      Row 126: 'SCN' (not in valid options)
+      Row 128: 'SCN' (not in valid options)
+      Row 129: 'SCN' (not in valid options)
+      Row 131: 'SCN' (not in valid options)
+      Row 132: 'SCN' (not in valid options)
+      Row 134: 'SCN' (not in valid options)
+      Row 135: 'SCN' (not in valid options)
+      Row 137: 'SCN' (not in valid options)
+      Row 139: 'SCN' (not in valid options)
+      Row 140: 'SCN' (not in valid options)
+      Row 142: 'SCN' (not in valid options)
+      Row 143: 'SCN' (not in valid options)
+      Row 145: 'SCN' (not in valid options)
+      Row 146: 'SCN' (not in valid options)
+      Row 148: 'SCN' (not in valid options)
+      Row 223: 'SCN' (not in valid options)
+      Row 225: 'SCN' (not in valid options)
+      Row 251: 'SCN' (not in valid options)
+      Row 253: 'SCN' (not in valid options)
+      Row 255: 'SCN' (not in valid options)
+      Row 329: 'SCN' (not in valid options)
+      Row 333: 'SCN' (not in valid options)
+      Row 335: 'SCN' (not in valid options)
+      Row 339: 'SCN' (not in valid options)
+      Row 341: 'SCN' (not in valid options)
+      Row 344: 'SCN' (not in valid options)
+      Row 347: 'SCN' (not in valid options)
+      Row 350: 'SCN' (not in valid options)
+      Row 353: 'SCN' (not in valid options)
+      Row 357: 'SCN' (not in valid options)
+      Row 374: 'SCN' (not in valid options)
+      Row 377: 'SCN' (not in valid options)
+      Some valid options are: 7z, Ab1, Abf, Ai, Avi...
+
+File: nf_5.csv
+  Total rows: 16
+  No validation errors found
+
+File: nf_6.csv
+  Total rows: 16
+  No validation errors found
+
+File: nf_7.csv
+  Total rows: 17
+  No validation errors found
+
+File: nf_8.csv
+  Total rows: 120
+  No validation errors found
+
+File: nf_9.csv
+  Total rows: 338
+  No validation errors found
