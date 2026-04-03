@@ -3,7 +3,7 @@
 
 ## Extract metadata
 
-- Consider Anthropic’s Sonnet 4
+- Update to Anthropic’s Sonnet 4
 - Test on new metadata schemas
 - Consider requesting a higher TPM rate
 
