@@ -2,6 +2,8 @@
 
 Curator workflows include comprehensive solutions for extracting, fixing, and transforming metadata using generative AI. Workflows streamline the process of ingesting research and managing metadata across different schemas.
 
+Modules of these workflows can be exposed as tools for AI agents in a multi-agent framework.
+
 ## Key Features
 
 - **Metadata Extraction**: Extract structured metadata from research papers automatically
