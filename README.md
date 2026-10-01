@@ -4,6 +4,8 @@ Curator workflows include comprehensive solutions for extracting, fixing, and tr
 
 Modules of these workflows can be exposed as tools for AI agents in a multi-agent framework.
 
+This repository contains single-shot pipelines - no HITL iteration.
+
 ## Key Features
 
 - **Metadata Extraction**: Extract structured metadata from research papers automatically
